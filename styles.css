@@ -1,0 +1,78 @@
+/* Reset some default styles */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  /* Header */
+  .header {
+    background-color: #4285F4;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Content */
+  .content {
+    text-align: center;
+    padding: 4rem;
+  }
+  
+  .profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .intro {
+    font-size: 1.5rem;
+    margin: 2rem 0;
+    color: #333;
+  }
+  
+  /* Skills */
+  .skills {
+    background-color: #FF9800;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Portfolio */
+  .portfolio {
+    text-align: center;
+    padding: 4rem;
+  }
+  
+  .project {
+    border: 2px solid #FF5722;
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Contact */
+  .contact {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Footer */
+  .footer {
+    text-align: center;
+    padding: 2rem;
+    color: #777;
+  }
+  
